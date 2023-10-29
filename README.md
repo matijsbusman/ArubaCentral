@@ -1,0 +1,2 @@
+# ArubaCentral
+Aruba Central documentation
